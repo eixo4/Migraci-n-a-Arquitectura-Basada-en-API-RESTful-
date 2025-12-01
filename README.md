@@ -11,7 +11,7 @@ Este proyecto implementa una arquitectura **Cliente-Servidor desacoplada**.
 
    ```bash
    pip install -r requirements.txt
-```
+   ```
 
 2.  **Configurar Base de Datos (Docker):**
 
